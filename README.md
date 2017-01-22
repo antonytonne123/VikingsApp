@@ -5,4 +5,4 @@ Just my simple app for fun
 
 2.You need to have node js and npm package manager to be installed on your PC.
 
-3.To start the app use npm start command from command line.
+3.To start the app use npm install then npm start command from command line.
